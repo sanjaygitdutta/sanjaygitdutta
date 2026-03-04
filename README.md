@@ -20,7 +20,7 @@
 - 🎯 Target: Product-Based MNC AI Engineer Role  
 
 ---
-<img align="right" alt="Coding" width="400"
+<img align="right" alt="Coding" width="800"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="center">
