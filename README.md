@@ -20,6 +20,9 @@
 - 🎯 Target: Product-Based MNC AI Engineer Role  
 
 ---
+<img align="right" alt="Coding" width="380"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjaygitdutta&theme=tokyo-night" />
 </p>
