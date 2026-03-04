@@ -1,4 +1,73 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sanjay Dutta</h1>
+<h3 align="center">AI Systems Engineer in Progress | Trader | Cloud-Native Builder</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanjaygitdutta&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 BS–MS in Artificial Intelligence & Cybersecurity – IIT Patna  
+- 📈 3+ Years Professional Derivatives Trading Experience  
+- ☁️ Building Cloud-Native AI Systems (AWS + Firebase + GCP APIs)  
+- 🧠 Focused on Multimodal AI, Distributed Systems & LLM Integration  
+- 🎯 Target: Product-Based MNC AI Engineer Role  
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+---
+
+### 🤖 AI / ML
+Multimodal AI (Vision + Text) • LLM Integration • RNN/LSTM • Time-Series Modeling • Prompt Engineering
+
+---
+
+### 🌐 Backend & Distributed Systems
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+Event-Driven Architecture • RESTful APIs • Celery
+
+---
+
+### ☁️ Cloud & Infrastructure
+AWS (Lambda, API Gateway, CDK – IaC) • Firebase Cloud Messaging (FCM) • Google Cloud APIs
+
+---
+
+### 📦 DevOps & Data
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+PostgreSQL • Git • GitHub
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjaygitdutta&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaygitdutta&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Graph Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanjaygitdutta/sanjaygitdutta/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<h3 align="center">🚀 Engineering Intelligent Systems with Discipline & Precision</h3>
 
 <!--
 **sanjaygitdutta/sanjaygitdutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
