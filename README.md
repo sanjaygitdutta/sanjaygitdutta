@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Systems+Engineer;Cloud-Native+Architect;Multimodal+AI+Builder;Quant+%2B+AI+Hybrid+Thinker" />
 </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=150&section=header&text=Sanjay%20Dutta&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=150&section=header&text=Building%20Intelligent%20Systems&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 <h3 align="center">AI Systems Engineer in Progress | Trader | Cloud-Native Builder</h3>
 
 <p align="center">
