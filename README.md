@@ -5,9 +5,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=150&section=header&text=Sanjay%20Dutta&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 <h3 align="center">AI Systems Engineer in Progress | Trader | Cloud-Native Builder</h3>
 
-<img align="right" alt="Coding" width="380"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanjaygitdutta&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
