@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Buliding%20Intelligent%20Systems&fontSize=54&fontAlignY=38&fontColor=ffffff&desc=AI%20Systems%20Engineer%20%7C%20Cloud-Native%20ML%20pipelines%20%2B%20LLM%20systems%20that%20ship%20to%20production&descSize=17&descAlignY=74&animation=fadeIn&color=0:0B1221,100:0EA5E9&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Building%20Intelligent%20Systems&fontSize=54&fontAlignY=38&fontColor=ffffff&desc=AI%20Systems%20Engineer%20%7C%20Cloud-Native%20ML%20pipelines%20%2B%20LLM%20systems%20that%20ship%20to%20production&descSize=17&descAlignY=74&animation=fadeIn&color=0:0B1221,100:0EA5E9&section=header" />
 </p>
 
 <p align="center">
